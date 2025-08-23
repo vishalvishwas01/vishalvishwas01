@@ -1,5 +1,29 @@
 # About Me:
-Hello! I’m Vishal Vishwas, a passionate Full-Stack Developer with a wealth of experience<br>working across different companies and domains. My expertise spans a wide range of <br>modern technologies, enabling me to deliver scalable, innovative, and <br>high-quality applications.<br><br>My Skills and Expertise<br>Frontend Development:<br>React.js: Building dynamic and responsive user interfaces.<br><br>Backend Development:<br>Node.js: Designing and developing robust server-side applications.<br>Express.js: Creating efficient and scalable backend services.<br><br>Database Management:<br>MongoDB: Building and managing scalable NoSQL databases.<br><br><br>I have worked on numerous projects that have helped streamline processes, enhance user experiences, <br>and improve operational efficiencies. My diverse experience in different domains has equipped me with a deep <br>understanding of how to leverage technology to solve complex problems effectively.
+Hello! I’m Vishal Vishwas, a passionate Full-Stack Developer with a wealth of experience<br>working across different companies and domains. My expertise spans a wide range of <br>modern technologies, enabling me to deliver scalable, innovative, and <br>high-quality applications.
+
+## ⚡ My Skills & Expertise  
+
+### 🎨 Frontend Development  
+- **React.js** - Building dynamic, component-based, and responsive user interfaces  
+- **Tailwind CSS** - Creating modern, mobile-first, and visually appealing designs  
+- **Framer Motion** - Adding smooth animations and micro-interactions for enhanced UX  
+
+### 🛠️ Backend Development  
+- **Node.js** - Designing and developing scalable, high-performance server-side applications  
+- **Express.js** - Creating efficient RESTful APIs and backend services  
+
+### 🗄️ Database & Cloud  
+- **MongoDB** - Managing scalable NoSQL databases with cloud-based solutions (MongoDB Atlas)  
+- **Firebase** - Authentication, Firestore (real-time database), and cloud storage for seamless integration  
+
+### 🚀 Deployment & Hosting  
+- **Vercel** - Fast, reliable frontend hosting with CI/CD  
+- **Render / Cloud platforms** - Hosting backend services and APIs  
+
+---
+
+🔥 Passionate about building **full-stack applications** that combine **modern UI, scalable backend, and real-time features** to deliver seamless user experiences.  
+
 
 
 ## 🌐 Socials:
