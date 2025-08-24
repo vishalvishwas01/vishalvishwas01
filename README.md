@@ -24,7 +24,7 @@ Hello! I’m Vishal Vishwas, a passionate Full-Stack Developer with a wealth of 
 - **Firebase** - Authentication, Firestore (real-time database), and cloud storage for seamless integration  
 
 ### 🚀 Deployment & Hosting  
-- **Vercel** - Fast, reliable frontend hosting with CI/CD  
+- **Vercel** - Fast, reliable frontend hosting
 - **Render / Cloud platforms** - Hosting backend services and APIs  
 
 ---
