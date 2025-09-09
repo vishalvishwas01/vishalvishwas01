@@ -4,7 +4,7 @@ Hello! I’m Vishal Vishwas, a passionate Full-Stack Developer with a wealth of 
 ---
 
 # Portfolio
-> <a href="https://portfolio-peach-theta-gbghx5snbg.vercel.app/" target="_blank">Open Portfolio</a>  
+> <a href="https://www.vishalvishwas.gleeze.com/" target="_blank">Open Portfolio</a>  
 
 ---
 
