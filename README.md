@@ -28,7 +28,7 @@
 | **10k+** | **90%** | **43%** | **8.63/10** |
 | requests/sec handled | API latency reduction | malicious traffic blocked | MCA CGPA |
 
-> Currently a Software Engineer Intern at **Supercode**, where I work on production-grade services, rate limiting, DDoS mitigation, and performance-critical systems.
+> Currently a Software Engineer Intern at **Bhoomidex**, where I work on production-grade services, rate limiting, DDoS mitigation, and performance-critical systems.
 
 </details>
 
@@ -141,7 +141,7 @@ AI dashboard for asking questions over PDF/DOCX files with authenticated, per-us
 
 | Period | Role | Impact |
 | --- | --- | --- |
-| **Aug 2026 – Present** | **Software Engineer Intern · Supercode** · Bengaluru | Built a 10k requests/sec rate-limiting microservice; blocked 43% of malicious traffic and reduced API latency from 10s to under 1s with Node.js, Python, Flask, Redis, Docker, and Kubernetes. |
+| **Aug 2026 – Present** | **Software Engineer Intern · Bhoomidex** · Bengaluru | Built a 10k requests/sec rate-limiting microservice; blocked 43% of malicious traffic and reduced API latency from 10s to under 1s with Node.js, Python, Flask, Redis, Docker, and Kubernetes. |
 | **Apr 2026 – Aug 2026** | **Full Stack Intern · Pinnacleway** · Gurugram | Implemented NestJS authentication across a 100k+ line codebase, documented 20+ Swagger APIs, and reduced CI/CD deployment time from 30 to 20 minutes. |
 | **Jan 2025 – Apr 2025** | **Full Stack Intern · Xeltratech** · Noida | Shipped 3+ cross-browser React interfaces, built Flutter features with Riverpod, improved maintainability by 30%, and supported 99.9% uptime for Node/Express services. |
 
